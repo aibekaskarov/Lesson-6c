@@ -1,0 +1,51 @@
+.container {
+  height: 500px;
+  width: 500px;
+  background-color: aqua;
+  border: 1px solid none;
+  position: ;
+  display: flex ;
+}
+
+.atext {
+  height: 80px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  left: 10px;
+  top: 210px;
+}
+
+.btext {
+  height: 80px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  left: 200px;
+  top: 210px;
+}
+
+.ctext {
+  height: 80px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  left:405px;
+  top: 210px;
+}
+
+.bu {
+  position:fixed;
+  top:250px
+}
+
+.mu {
+  position:fixed;
+  left: 480px;
+  top: 200px;
+}
+
+.lu {
+  position:fixed;
+  top:200px;
+}
